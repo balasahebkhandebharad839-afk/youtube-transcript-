@@ -1,0 +1,5 @@
+{
+  "name": "ScriptRefine Pro",
+  "description": "A professional-grade YouTube transcript editor that cleans filler words, removes timestamps, and transforms raw transcripts into SEO-friendly scripts using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
